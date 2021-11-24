@@ -1,8 +1,12 @@
 # Proyecto2-Sistemas-Distribuidos
 
-# Temas a asignar
+# Entrega del Proyecto
+27/11/2021 23:59
+
+# Temas asignado
 * Videos musicales (mp4)
 
+# Proposito
 El propósito de este proyecto es crear una aplicación Web que actue como un inventario de contenidos de interés. Cada grupo debe seleccionar un tema para el desarrollo del proyecto.
 
 # Frontend
